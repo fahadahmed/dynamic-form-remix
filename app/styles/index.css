@@ -1,0 +1,23 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.form-content {
+  background: white;
+  padding: 1rem;
+}
+
+.action-layer {
+  padding: 1rem 0;
+  display: grid;
+  grid-template-columns: 6fr 3fr 3fr;
+  align-content: center;
+  gap: 1rem;
+}
+
+.full-width-button {
+  width: 100%;
+  max-width: 100%;
+}
